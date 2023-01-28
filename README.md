@@ -1,4 +1,4 @@
-# CreditRiskModelling
+# Credit Risk Modelling
 Complete outlook as per the **Indsutry standards**<br><br>
 ![image.png](image/banner.png)<br><br>
 
