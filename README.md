@@ -1,5 +1,5 @@
 # Credit Risk Modelling
-Complete outlook as per the **Indsutry standards**<br><br>
+Complete outlook as per the **Industry standards**<br><br>
 ![image.png](image/banner.png)<br><br>
 
 Credit risk modelling is the **best way** for lenders to understand how likley a particular loan is to get repaid, meaning it's a tool to understand the **credit risk of a borrower**. This is espacially important because this credit risk profile **keeps changing** with time and circumstances.
